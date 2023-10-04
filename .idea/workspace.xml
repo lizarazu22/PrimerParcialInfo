@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8083a4-e862-47f2-8831-4752635d3d5a" name="Changes" comment="primer commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio_6_1/SalarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_ejercicio_6_1/SalarioServiceTest.java" afterDir="false" />
+    <list default="true" id="5a8083a4-e862-47f2-8831-4752635d3d5a" name="Changes" comment="primer commit examen">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio_6_2/AerolineaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio_6_3/AerolineaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio_6_3/AerolineaServiceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test_ejercicio_6_2/AerolineaServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test_ejercicos_6_3/AerolineaServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696449792847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primer commit examen">
+      <created>1696459014333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696459014333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+    <MESSAGE value="primer commit examen" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit examen" />
   </component>
 </project>
